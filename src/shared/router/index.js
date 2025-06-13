@@ -1,5 +1,5 @@
 
-import { createRouter, createWebHistory } from 'vue-router';
+import { createRouter, createWebHashHistory, createWebHistory } from 'vue-router';
 import ContentSectionComponent from "../../public/content-section.component.vue";
 import FansSectionComponent from "../../public/fans-section.component.vue";
 import ArtistSectionComponent from "../../public/artist-section.component.vue";
@@ -15,7 +15,7 @@ const routes=[
 ]
 
 const router = createRouter({
-    history: createWebHistory(),
+    history: createWebHashHistory(),
     routes: routes,
 
 });
