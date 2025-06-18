@@ -11,7 +11,7 @@ export default {
       <span class="highlight">{{ $t('titulo_beneficios_artista_resaltado') }}</span>
       {{ $t('titulo_beneficios_artista_parte2') }}
     </h2>
-
+<!-- Cards de beneficios de artistas -->
     <section class="benefits">
       <div class="card">
         <div class="icon"><i class="fas fa-bell"></i></div>
