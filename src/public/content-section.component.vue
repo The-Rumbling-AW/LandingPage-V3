@@ -5,6 +5,7 @@
     </div>
 
     <div class="section-title">{{$t("conoce")}}</div>
+    <!-- Cards de conciertos -->
     <div class="concerts">
       <div class="concert-card">
         <img src="https://cdn.teleticket.com.pe/especiales/harry-styles-2020/images/harry_rs.jpg" alt="Harry Styles">
