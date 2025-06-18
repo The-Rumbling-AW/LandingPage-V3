@@ -9,7 +9,7 @@ import router from "./shared/router/index.js";
 import '@fortawesome/fontawesome-free/css/all.min.css';
 const app = createApp(App);
 
-//pp.use(PrimeVue, { ripple: true });
+
 app.use(PrimeVue, {
     theme: {
         preset: Aura
