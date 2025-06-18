@@ -12,7 +12,7 @@ export default {
       <span class="highlight">{{ $t('titulo_beneficios_fan_resaltado') }}</span>
       {{ $t('titulo_beneficios_fan_parte2') }}
     </h2>
-
+<!-- Cards de beneficios para fans -->
     <section class="benefits">
       <div class="card">
         <div class="icon"><i class="fas fa-bell"></i></div>
