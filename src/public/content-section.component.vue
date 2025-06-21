@@ -68,7 +68,7 @@
 
     <div class="video-card">
       <iframe width="100%" height="215"
-              src="https://www.youtube.com/embed/jbgwkgVW3HQ"
+              src="https://www.youtube.com/embed/wY6JvLdfWy0"
               title="Testimonio de fan en concierto"
               frameborder="0"
               allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
