@@ -5,7 +5,7 @@ export default {
 </script>
 
 <template>
-
+<!-- Inicio -->
   <main>
     <h2>
       {{ $t('titulo_beneficios_fan_parte1') }}
