@@ -28,7 +28,7 @@
             <img src="https://img.icons8.com/ios-filled/50/ffffff/youtube-play.png" alt="YouTube" />
           </a>
         </div>
-
+<!-- Videito -->
         <p style="margin-top: 1rem;">{{$t("copyright")}}</p>
         <a href="https://www.youtube.com/watch?v=UqFMGNLxV3Q"
            target="_blank"
