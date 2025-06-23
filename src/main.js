@@ -32,6 +32,7 @@ app.component('pv-select-button', SelectButton)
 
 app.use(i18n);
 
+
 app.use(router);
 
 app.mount('#app');
